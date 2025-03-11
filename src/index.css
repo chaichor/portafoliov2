@@ -1,0 +1,16 @@
+:root {
+  font-family: "Inter", sans-serif;
+  font-optical-sizing: auto;
+  background: #0000;
+  color: white;
+  scroll-behavior: smooth;
+
+}
+
+.bg-image{
+  background-image: url("./assets/bg.png");
+}
+
+#work, #about, #experiencie, #testimonials, #contact {
+  scroll-margin-top: 80px;
+}
